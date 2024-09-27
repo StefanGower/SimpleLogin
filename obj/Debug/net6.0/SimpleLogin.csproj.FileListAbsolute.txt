@@ -1,0 +1,15 @@
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\bin\Debug\net6.0\SimpleLogin.exe
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\bin\Debug\net6.0\SimpleLogin.deps.json
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\bin\Debug\net6.0\SimpleLogin.runtimeconfig.json
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\bin\Debug\net6.0\SimpleLogin.dll
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\bin\Debug\net6.0\SimpleLogin.pdb
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.csproj.AssemblyReference.cache
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.AssemblyInfoInputs.cache
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.AssemblyInfo.cs
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.csproj.CoreCompileInputs.cache
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.dll
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\refint\SimpleLogin.dll
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.pdb
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\SimpleLogin.genruntimeconfig.cache
+C:\Users\gower\Desktop\SimpleLogin\SimpleLogin\obj\Debug\net6.0\ref\SimpleLogin.dll
